@@ -12,6 +12,8 @@
 
 *git status* - **команда для определения статуса репозитория**
 
+[здесь есть шпаргалки по вставкам](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/?upm_export=print)
+
 *git commit -m (message)* - **команда для фиксации изменений**
 
 *git log* - **команда для вывода журнала сохранений**
